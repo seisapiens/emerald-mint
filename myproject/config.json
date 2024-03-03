@@ -18,7 +18,7 @@
 
         {
             "name": "Team",
-            "merkle_root": "eea5c93b50fb1d4d721f0049c9da8e12bc9a1c74b2f46cc7930e13a6cd47599a",
+            "merkle_root": "592ac609d59ab7b74ca14b6c0edaf3e915737a969f4922a3ea640c66744e25af",
             "max_tokens": 3,
             "unit_price": 0,
             "creators": [
@@ -33,7 +33,7 @@
 
         {
             "name": "OG",
-            "merkle_root": "eea5c93b50fb1d4d721f0049c9da8e12bc9a1c74b2f46cc7930e13a6cd47599a",
+            "merkle_root": "cf61ee17da4fe27f15a01109af5c0ca5f28c880fb0b161dcc5b7e2b11fba26d3",
             "max_tokens": 3,
             "unit_price": 99,
             "creators": [
@@ -48,7 +48,7 @@
 
         {
             "name": "Whitelist",
-            "merkle_root": "eea5c93b50fb1d4d721f0049c9da8e12bc9a1c74b2f46cc7930e13a6cd47599a",
+            "merkle_root": "928ba76b67baddb7bcc793c1248e0164fb4c8e05065af5f74925d811e4eeeb84",
             "max_tokens": 2,
             "unit_price": 99,
             "creators": [
